@@ -16,4 +16,5 @@
     <color name="colorRed">#EB1D1E</color>
 
     <color name="tab_text_normal">#212121</color>
+    <color name="me_bg">#DDDDDD</color>
 </resources>
