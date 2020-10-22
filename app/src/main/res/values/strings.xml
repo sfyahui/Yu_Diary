@@ -15,4 +15,6 @@
     <string name="mood">编辑心情</string>
     <string name="movement">编辑运动</string>
     <string name="setting">设置</string>
+    
+    <string name="there_is_no_schedule">没有日程</string>
 </resources>
